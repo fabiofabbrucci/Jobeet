@@ -1,0 +1,70 @@
+Jun 01 22:50:18 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 01 22:50:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 01 22:50:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 01 22:50:18 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 01 22:50:18 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jun 01 22:50:18 symfony [info] {sfPHPView} Decorate content with "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:18 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 01 22:50:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 01 22:50:18 symfony [info] {sfWebDebugLogger} Configuration 267.87 ms (9)
+Jun 01 22:50:18 symfony [info] {sfWebDebugLogger} Factories 224.15 ms (1)
+Jun 01 22:50:18 symfony [info] {sfWebDebugLogger} Action "default/index" 0.32 ms (1)
+Jun 01 22:50:18 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 17.63 ms (1)
+Jun 01 22:50:18 symfony [info] {sfWebResponse} Send content (28357 o)
+Jun 01 22:50:41 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 01 22:50:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 01 22:50:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 01 22:50:41 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 01 22:50:41 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jun 01 22:50:41 symfony [info] {sfPHPView} Decorate content with "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:41 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 01 22:50:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 01 22:50:41 symfony [info] {sfWebDebugLogger} Configuration 3.48 ms (9)
+Jun 01 22:50:41 symfony [info] {sfWebDebugLogger} Factories 14.19 ms (1)
+Jun 01 22:50:41 symfony [info] {sfWebDebugLogger} Action "default/index" 0.37 ms (1)
+Jun 01 22:50:41 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 8.75 ms (1)
+Jun 01 22:50:41 symfony [info] {sfWebResponse} Send content (28383 o)
+Jun 01 22:50:42 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 01 22:50:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 01 22:50:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 01 22:50:42 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 01 22:50:42 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jun 01 22:50:42 symfony [info] {sfPHPView} Decorate content with "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:42 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 01 22:50:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 01 22:50:42 symfony [info] {sfWebDebugLogger} Configuration 3.42 ms (9)
+Jun 01 22:50:42 symfony [info] {sfWebDebugLogger} Factories 11.83 ms (1)
+Jun 01 22:50:42 symfony [info] {sfWebDebugLogger} Action "default/index" 0.32 ms (1)
+Jun 01 22:50:42 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 8.18 ms (1)
+Jun 01 22:50:42 symfony [info] {sfWebResponse} Send content (28383 o)
+Jun 01 22:50:43 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 01 22:50:43 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 01 22:50:43 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 01 22:50:43 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 01 22:50:43 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jun 01 22:50:43 symfony [info] {sfPHPView} Decorate content with "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:43 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:43 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 01 22:50:43 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 01 22:50:43 symfony [info] {sfWebDebugLogger} Configuration 3.12 ms (9)
+Jun 01 22:50:43 symfony [info] {sfWebDebugLogger} Factories 15.37 ms (1)
+Jun 01 22:50:43 symfony [info] {sfWebDebugLogger} Action "default/index" 0.38 ms (1)
+Jun 01 22:50:43 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 9.71 ms (1)
+Jun 01 22:50:43 symfony [info] {sfWebResponse} Send content (28383 o)
+Jun 01 22:50:44 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Jun 01 22:50:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Jun 01 22:50:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Jun 01 22:50:44 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Jun 01 22:50:44 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Jun 01 22:50:44 symfony [info] {sfPHPView} Decorate content with "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:44 symfony [info] {sfPHPView} Render "/var/www/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Jun 01 22:50:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Jun 01 22:50:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jun 01 22:50:44 symfony [info] {sfWebDebugLogger} Configuration 3.28 ms (9)
+Jun 01 22:50:44 symfony [info] {sfWebDebugLogger} Factories 11.74 ms (1)
+Jun 01 22:50:44 symfony [info] {sfWebDebugLogger} Action "default/index" 0.32 ms (1)
+Jun 01 22:50:44 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 8.06 ms (1)
+Jun 01 22:50:44 symfony [info] {sfWebResponse} Send content (28383 o)
