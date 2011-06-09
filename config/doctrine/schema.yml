@@ -56,6 +56,7 @@ JobeetAffiliate:
       local: id
       foreign: affiliate_id
       type: many
+
 JobeetCategory:
   connection: doctrine
   tableName: jobeet_category
@@ -96,6 +97,7 @@ JobeetCategory:
       local: id
       foreign: category_id
       type: many
+
 JobeetCategoryAffiliate:
   connection: doctrine
   tableName: jobeet_category_affiliate
@@ -121,6 +123,7 @@ JobeetCategoryAffiliate:
       local: category_id
       foreign: id
       type: one
+
 JobeetJob:
   connection: doctrine
   tableName: jobeet_job
